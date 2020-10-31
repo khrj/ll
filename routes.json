@@ -2,14 +2,14 @@
   {
     "name": "g",
     "title": "Github",
-    "description": "All of my open-source and personal work",
+    "description": "All of my open-source projects!",
     "public": true,
     "url": "https://github.com/KhushrajRathod"
   },
   {
     "name": "t",
     "title": "TeleDrive",
-    "description": "Thoughts, analogies, and just all-around me being me.",
+    "description": "TeleDrive lets you automatically backup all your files to telegram's saved messages. This means free, unlimited storage",
     "public": true,
     "url": "https://teledrive.khushrajrathod.me/"
   },
