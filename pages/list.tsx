@@ -31,8 +31,8 @@ const HomeRoutes = ({ routes }) => {
 				</Text>
 
 				<Text>
-					Welcome to LL! Here are some interesting links that this website's
-					owner's publicly shared (URL parameter forwarding <i>is</i>{' '}
+					Welcome to my link hub! Here's the full list of links I've shortened
+					(URL parameter forwarding <i>is</i>{' '}
 					available):
 				</Text>
 				<Table
