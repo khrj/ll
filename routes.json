@@ -1,0 +1,23 @@
+[
+  {
+    "name": "g",
+    "title": "Github",
+    "description": "All of my open-source and personal work",
+    "public": true,
+    "url": "https://github.com/KhushrajRathod"
+  },
+  {
+    "name": "t",
+    "title": "TeleDrive",
+    "description": "Thoughts, analogies, and just all-around me being me.",
+    "public": true,
+    "url": "https://teledrive.khushrajrathod.me/"
+  },
+  {
+    "name": "sans",
+    "title": "Sanskrit notes reference",
+    "description": "¯\_(ツ)_/¯",
+    "public": false,
+    "url": "https://docs.google.com/document/d/1m4xq0sPbJ0NZDG6TucqRiKMF4J7z2Lq4LYBS8UtY9co/edit?usp=sharing_eip&ts=5ecfcce6"
+  }
+]
