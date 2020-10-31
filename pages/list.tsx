@@ -8,6 +8,7 @@ import {
 	Text,
 	useMediaQuery,
 	Tooltip,
+	Image,
 } from '@geist-ui/react'
 import { QuestionCircle } from '@geist-ui/react-icons'
 const fetch = require('node-fetch')
@@ -20,6 +21,11 @@ const HomeRoutes = ({ routes }) => {
 	return (
 		<>
 			<Page size="small">
+				{upMD && (
+					<Image src="https://cloud-jr0g7md0j.vercel.app/0background3.jpg" />
+				)}
+
+				<Spacer />
 				<Text h1>
 					{' '}
 					Public Links{' '}
