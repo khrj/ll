@@ -21,6 +21,13 @@
     "url": "https://docs.google.com/document/d/1m4xq0sPbJ0NZDG6TucqRiKMF4J7z2Lq4LYBS8UtY9co/edit?usp=sharing_eip&ts=5ecfcce6"
   },
   {
+    "name": "fetch",
+    "title": "cURL to fetch",
+    "description": "Convert cURL commands to window.fetch()",
+    "public": true,
+    "url": "https://kigiri.github.io/fetch/"
+  },
+  {
     "name": "ls",
     "title": "Youtube Video",
     "description": "Please consider watching this video, I believe it is beneficial to everyone",
