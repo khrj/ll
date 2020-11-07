@@ -33,5 +33,12 @@
     "description": "Please consider watching this video, I believe it is beneficial to everyone",
     "public": true,
     "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
-  }
+  },
+  {
+    "name": "zoom",
+    "title": "Zoom",
+    "description": "My personal zoom meeting room",
+    "public": true,
+    "url": "https://hackclub.zoom.us/my/khushrajrathod"
+  },
 ]
