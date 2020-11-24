@@ -40,12 +40,5 @@
     "description": "My personal zoom meeting room",
     "public": true,
     "url": "https://hackclub.zoom.us/my/khushrajrathod"
-  },
-  {
-    "name": "star.ts",
-    "title": "StarRing",
-    "description": "See https://github.com/KhushrajRathod/StarRing",
-    "public": true,
-    "url": "https://raw.githubusercontent.com/KhushrajRathod/StarRing/main/star.ts"
   }
 ]
