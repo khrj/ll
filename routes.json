@@ -40,5 +40,12 @@
     "description": "My personal zoom meeting room",
     "public": true,
     "url": "https://hackclub.zoom.us/my/khushrajrathod"
+  },
+  {
+    "name": "cliRick",
+    "title": "Rick roll script",
+    "description": "curl -sL https://z.khushrajrathod.com/cliRick,
+    "public": true,
+    "url": "https://raw.githubusercontent.com/keroserene/rickrollrc/master/roll.sh"
   }
 ]
