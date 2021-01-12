@@ -46,6 +46,6 @@
     "title": "Rick roll script",
     "description": "curl -sL https://z.khushrajrathod.com/cliRick",
     "public": true,
-    "url": "https://raw.githubusercontent.com/keroserene/rickrollrc/master/roll.sh"
+    "url": "https://cdn.jsdelivr.net/gh/keroserene/rickrollrc@master/roll.sh"
   }
 ]
