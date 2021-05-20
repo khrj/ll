@@ -1,6 +1,6 @@
 {
 	"name": "ll",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"description": "A tiny link shortener running on vercel and firebase.",
 	"main": "src/index.ts",
 	"repository": "https://github.com/rishiosaur/ll",
@@ -24,7 +24,7 @@
 		"@typescript-eslint/parser": "4.6.0",
 		"eslint": "7.12.1",
 		"eslint-config-airbnb": "18.2.0",
-		"eslint-config-prettier": "6.15.0",
+		"eslint-config-prettier": "8.3.0",
 		"eslint-config-wesbos": "1.0.1",
 		"eslint-plugin-html": "6.1.0",
 		"eslint-plugin-import": "2.20.0",
